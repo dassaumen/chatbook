@@ -1,0 +1,18 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "simple chat application in node, express, socket ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saumen Das <itzsaumen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3"
+  }
+}
